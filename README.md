@@ -1,6 +1,6 @@
 # 👋 Welcome to my github page! <br />
 
-A diligent software engineer and avid open source developer with over 8 years of experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> 
+<br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world. <br /> 
 
 ## Favorite Saying 👍
 
