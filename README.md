@@ -1,6 +1,6 @@
 # 👋 Welcome to my github page! <br />
 
-<br />Creative, Passionate, and Perfective Senior Full Stack & Blockchain developer with 8+ years experience. <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world.<br /> 
+<br />Creative, Passionate, and Perfective Senior software engineer <br /> I am focused on building innovative and cutting-edge business solutions for clients around the world.<br /> 
 
 ## Favorite Saying 👍
 
